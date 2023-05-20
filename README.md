@@ -9,7 +9,7 @@ Key Features:
 
 Some instructions:
 While running the application :
-Press spacebar to capture the image
-Press esc to close the window
+1) Press spacebar to capture the image
+2) Press esc to close the window
 
 
